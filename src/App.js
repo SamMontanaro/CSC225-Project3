@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="App">
       <div className="container">
-        <h1 className="row justify-content-center mt-3">List of Employees</h1>
+        <h1 className="row justify-content-center mt-3">Employee Listing</h1>
         <div className="row justify-content-center mt-3">
           <Employee id="9912"/>
           <Employee id="9913"/>
